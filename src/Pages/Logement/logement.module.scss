@@ -1,0 +1,119 @@
+.ficheLogement {
+    margin: 1% 5% 0;
+}
+
+.galerieLogement {
+    display: flex;
+    justify-content: center;
+    margin: 0 0 1%;
+}
+
+.qqocpLogement {
+    display: flex;
+}
+
+.infosBaseLogement {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.titreLogement {
+    width: 100%;
+    font-size: 36px;
+    text-align: left;
+}
+
+.locationLogement {
+    font-size: 18px;
+    text-align: left;
+    margin: -3% 0 0;
+    color: black;
+}
+
+.tagsLogement {
+    font-size: 14px;
+    display: flex;
+    justify-content: flex-start;
+    // margin: 1% 0 1%;
+}
+
+.hostRateLogement {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.userLogement {
+    font-size: 18px;
+}
+
+.infosLogement {
+    display: flex;
+    justify-content: space-between;
+    margin: 2% 0 5%;
+    gap: 20px;
+}
+
+.descriptionLogement {
+    width: 45%;
+}
+
+.equipementsLogement {
+    width: 45%;
+    text-align: left;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+@media (max-width: 768px) {
+    .titreLogement {
+        font-size: 18px;
+         margin: 1% 0;
+    }
+.locationLogement {
+    font-size: 14px;
+    margin: 1% 0 3%;
+}
+    .userLogement {
+        font-size: 1px;
+    }
+
+    .descriptionLogement {
+        width: 100%;
+    }
+
+    .equipementsLogement {
+        width: 100%;
+
+    }
+
+    .tagsVotes {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .infosLogement {
+        display: flex;
+        margin: 25px 0 50px;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    .qqocpLogement {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .hostRateLogement {
+        width: 100%;
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: space-between;
+    }
+}

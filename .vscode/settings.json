@@ -1,0 +1,13 @@
+{
+    "emmet.preferences": {
+
+    },
+
+    "emmet.includeLanguages":{
+        "javascrpit":"javascriptereact"
+    },
+    "emmet.syntaxProfiles":{
+        "javascript": "jsx"
+    },
+    "emmet.triggerExpansionOnTab": true
+}

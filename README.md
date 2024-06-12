@@ -7,7 +7,7 @@
 <div align="center">
   <h1>Kasa</h1>
   <a href="https://github.com/Erik-42">
-    <img src="./assets/logo/learnhomeLogo.png" alt="Logo Learn@Home" width="200" height="100">
+    <img src="src/assets/logo/logoRedKasa.png" alt="Logo Kasa" width="200" height="60">
   </a>
 </div>
 
@@ -33,6 +33,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![wakatime](https://wakatime.com/badge/github/Erik-42/openclassroom-projet_11-kasa.svg)](https://wakatime.com/badge/github/Erik-42/openclassroom-projet_11-kasa)
+[![wakatime](https://wakatime.com/badge/user/f84d00d8-fee3-4ca3-803d-3daa3c7053a5/project/06d86510-c0eb-4495-a404-0952977547ea.svg)](https://wakatime.com/badge/user/f84d00d8-fee3-4ca3-803d-3daa3c7053a5/project/06d86510-c0eb-4495-a404-0952977547ea)
 
 </div>
 Développez une application Web avec React et React Router
@@ -54,35 +55,52 @@ Contraintes techniques : Tu trouveras les coding guidelines de Kasa ici. Comme t
 ## Built with
 
 <p></p>
-<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='./images/logos/html-1280x720.svg'> </a>
-<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='./images/logos/css3-1280x720.svg'> </a>
-<a href= https://github.com/Erik-42?tab=repositories&q=&type=&language=sass&sort= > <img width ='32px' height='32px' src ='./images/logos/Scss-1280x720.svg'> </a>
-<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='./images/logos/javascript-1280x720.svg'> </a>
-<a href= https://github.com/https://github.com/Erik-42?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='./images/logos/React-1280x720.svg'> </a>
+<a href=https://github.com/Erik-42?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href=https://github.com/Erik-42?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/Erik-42?tab=repositories&q=&type=&language=sass&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>
+<a href=https://github.com/Erik-42?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href=https://github.com/Erik-42?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/Erik-42?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
 <a href= https://github.com/Erik-42?tab=repositories&q=&type=&language=figma&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!--## Fonctionnement -->
+## Installation:
 
-<!--## Liens Projet -->
+`Yarn`
 
-<!-- ## Ressources Projet
+Installer les dépendances avec la commande `yarn add`
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+Démarrer le serveur avec la commande `yarn start`
+
+### Dependencies
+
+    "@testing-library/jest-dom": "^5.16.5"
+    "@testing-library/react": "^13.4.0"
+    "@testing-library/user-event": "^13.5.0"
+    "react": "^18.2.0"
+    "react-dom": "^18.2.0"
+    "react-router-dom": "^6.11.1"
+    "react-scripts": "5.0.1"
+    "web-vitals": "^2.1.4"
 
 ## Testez le projet
 
-Rien à installer ici, il suffit d'ouvrir le fichier `index.html`.
+### Available Scripts
+
+In the project directory, you can run:
+
+### `yarn start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
 Github: [https://erik-42.github.io/openclassroom-projet_11-kasa/](https://erik-42.github.io/openclassroom-projet_11-kasa/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- Benchmark -->
-
-<!-- LICENSE -->
 
 ## License
 
@@ -92,8 +110,6 @@ Formation OpenClassRoom Développeur d'application - JavaScript React
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
-
 ## Contact
 
 <div align="center">
@@ -102,16 +118,15 @@ Formation OpenClassRoom Développeur d'application - JavaScript React
 [![Stargazers][stars-shield]][stars-url]
 [![GitHub repo][github repo-shield]][github repo-url]
 [![wakatime](https://wakatime.com/badge/user/f84d00d8-fee3-4ca3-803d-3daa3c7053a5.svg)](https://wakatime.com/@f84d00d8-fee3-4ca3-803d-3daa3c7053a5)
-[![wakatime](https://wakatime.com/badge/user/f84d00d8-fee3-4ca3-803d-3daa3c7053a5/project/06d86510-c0eb-4495-a404-0952977547ea.svg)](https://wakatime.com/badge/user/f84d00d8-fee3-4ca3-803d-3daa3c7053a5/project/06d86510-c0eb-4495-a404-0952977547ea)
-
-</div>
 
 [![Github Badge][github badge-shield]][github badge-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-https://basillecorp.dev
+<a href = 'https://basillecorp.dev'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>
 
 mesen.erik@gmail.com
+
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,8 +138,8 @@ mesen.erik@gmail.com
 [wakatime-url]: https://wakatime.com/@f84d00d8-fee3-4ca3-803d-3daa3c7053a5
 [github badge-shield]: https://img.shields.io/badge/Github-Erik--42-155?style=for-the-badge&logo=github
 [github badge-url]: https://github.com/Erik-42
-[github repo-shield]: https://img.shields.io/badge/Repositories-36-blue
-[github repo-url]: https://github.com/Erik-42?tab=repositories
+[github repo-shield]: https://img.shields.io/badge/Repositories-42-blue
+[github repo-url]: https://github.com/Erik-42/Erik-42?tab=repositories
 [github repo file count (file type)-shield]: https://img.shields.io/github/directory-file-count/Erik-42/openclassroom-projet_11-kasa
 [github repo file count (file type)-url]: https://github.com/directory-file-count/Erik-42/openclassroom-projet_11-kasa
 [github followers-shield]: https://img.shields.io/github/followers/Erik-42

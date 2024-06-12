@@ -1,0 +1,49 @@
+ .cadreCard {
+     position: relative;
+     width: 340px;
+     height: 340px;
+     border-radius: 10px;
+     background-color: #FF6060;
+     display: flex;
+     flex-direction: column-reverse;
+     justify-content: space-between;
+ }
+
+ .cadreCard:hover {
+     opacity: 80%;
+ }
+
+ .coverImage {
+     width: 100%;
+     height: 100%;
+     object-fit: cover;
+     border-radius: 10px;
+ }
+
+ .locationName {
+     position: absolute;
+     border-radius: 10px;
+     background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0.5) 100%);
+     width: 100%;
+     height: 100%;
+     font-size: 18px;
+     color: #FFFFFF;
+     text-align: left;
+     display: flex;
+     align-items: flex-end;
+     padding: 20px;
+     text-decoration: none;
+ }
+
+ @media (max-width: 820px) {
+     .cadreCard {
+         width: 335px;
+         height: 255px;
+         border-radius: 10px;
+         background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0.5) 100%);
+         background-color: #FF6060;
+         display: flex;
+         flex-direction: column-reverse;
+         justify-content: space-between;
+     }
+ }

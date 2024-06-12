@@ -1,0 +1,30 @@
+.error404 {
+    font-size: 288px;
+    font-weight: 700;
+}
+
+.textError {
+    font-size: 36px;
+    line-height: 51px;
+    margin: 20px;
+}
+
+.errorLink {
+    height: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    line-height: 25px;
+    color: black;
+}
+
+.errorLink :hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 992px) {
+    .error404 {
+        font-size: 96px;
+    }
+}

@@ -1,0 +1,29 @@
+.troisColonnes {
+    background: #F7F7F7;
+    border-radius: 25px;
+    display: grid;
+    align-items: center;
+    grid-auto-rows: 400px;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: space-around;
+    justify-items: center;
+    margin: 3% 0;
+}
+
+@media (max-width: 1200px) {
+    .troisColonnes {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        justify-items: center;
+    }
+}
+
+@media (max-width: 820px) {
+    .troisColonnes {
+        display: grid;
+        grid-template-columns: 1fr;
+        background: none;
+        grid-auto-rows: 290px;
+        margin: 20px 0;
+    }
+}

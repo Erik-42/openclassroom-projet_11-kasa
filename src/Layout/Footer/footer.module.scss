@@ -1,0 +1,25 @@
+.footer {
+    background-color: black;
+    color: white;
+    font-size: 24px;
+}
+
+.footerLogo {
+    width: 10%;
+}
+
+.footer p {
+    color: white;
+    margin-top: 30px;
+}
+
+.pied {
+    display: table-cell;
+    padding: 40px 0 5px;
+}
+
+@media (max-width: 768px) {
+    .footer p {
+        font-size: 12px;
+    }
+}

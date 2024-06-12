@@ -1,0 +1,63 @@
+.collapse {
+    display: flex;
+    background-color: #F7F7F7;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: stretch;
+}
+
+.barreCollapse {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 18px;
+    padding: 13px 20px 13px 18px;
+    background: #FF6060;
+    color: white;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.titreCollapse {
+    text-align: left;
+    color: white;
+    display: flex;
+    align-items: flex-start;
+    padding-left: 18px;
+    line-height: 26px;
+}
+
+.vector {
+    width: 30px;
+    transform: rotate(0deg);
+    transition: 0.4s 0.1s ease-in-out;
+}
+
+.rotation {
+    transform: rotate(180deg);
+    transition: 0.4s ease-in-out;
+}
+
+.collapseToggle {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.collapseToggle li{
+    color: black;
+}
+.animated {
+    opacity: 1;
+    transition: height 0.4s ease-in-out, opacity 0.4s 0.4s ease-in-out;
+}
+
+.textCollapse {
+    text-align: initial;
+    background-color: #F7F7F7;
+    border-radius: 10px;
+    color: black;
+    font-size: 24px;
+    display: flex;
+    padding: 20px;
+}
