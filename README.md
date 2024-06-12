@@ -2,12 +2,13 @@
 <p>Projet OpenClassRoom</p>
 </div>
 <a name="readme-top"></a>
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <h1>Kasa</h1>
   <a href="https://github.com/Erik-42">
-    <img src="src/assets/logo/logoRedKasa.png" alt="Logo Kasa" width="200" height="60">
+    <img src="./src/assets/Logo/LOGO-Red.svg" alt="Logo Kasa" width="200" height="60">
   </a>
 </div>
 
@@ -33,7 +34,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![wakatime](https://wakatime.com/badge/github/Erik-42/openclassroom-projet_11-kasa.svg)](https://wakatime.com/badge/github/Erik-42/openclassroom-projet_11-kasa)
-[![wakatime](https://wakatime.com/badge/user/f84d00d8-fee3-4ca3-803d-3daa3c7053a5/project/06d86510-c0eb-4495-a404-0952977547ea.svg)](https://wakatime.com/badge/user/f84d00d8-fee3-4ca3-803d-3daa3c7053a5/project/06d86510-c0eb-4495-a404-0952977547ea)
 
 </div>
 Développez une application Web avec React et React Router
@@ -54,7 +54,7 @@ Contraintes techniques : Tu trouveras les coding guidelines de Kasa ici. Comme t
 
 ## Built with
 
-<p></p>
+<p> </p>
 <a href=https://github.com/Erik-42?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href=https://github.com/Erik-42?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/Erik-42?tab=repositories&q=&type=&language=sass&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>
