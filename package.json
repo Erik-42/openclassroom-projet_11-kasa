@@ -1,10 +1,10 @@
 {
-  "name": "openclassrooms_projet_6-1",
+  "name": "openclassrooms-projet_11-kasa",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://erik-42.github.io/OpenClassRooms_Projet_6",
+  "homepage": "https://github.com/Erik-42/openclassroom-projet_11-kasa",
   "dependencies": {
-   "react": "^18.2.0",
+    "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.11.1",
     "react-scripts": "5.0.1",

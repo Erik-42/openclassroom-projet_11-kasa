@@ -12,7 +12,7 @@ const Accueil = () => {
     return (
         <main>
             <div className={styled.bannerHome} >
-                <h1 className={styled.titleBanner}>Chez vous,partout et ailleurs</h1>
+                <h1 className={styled.titleBanner}>Chez vous, partout et ailleurs</h1>
                 <img className={styled.banner} src={bannerHome} alt="Bannière accueil - Chez vous,partout et ailleurs" />
             </div>
             <div className={styled.greySquare}>

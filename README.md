@@ -122,7 +122,7 @@ Formation OpenClassRoom Développeur d'application - JavaScript React
 [![Github Badge][github badge-shield]][github badge-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<a href = 'https://basillecorp.dev'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>
+<a href = 'https://basillecorp.dev'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/> basillecorp.dev</a>
 
 mesen.erik@gmail.com
 
